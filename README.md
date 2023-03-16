@@ -1,2 +1,1 @@
-# moonmind
-Moonmind Artist site prototype
+TinDog Starting Files
